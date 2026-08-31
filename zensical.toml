@@ -12,8 +12,14 @@ repo_name = "fwibisono87/asisten-guide"
 # edit_uri = "edit/main/docs/"
 
 nav = [
-  { "Get started" = "index.md" },
-  { "Markdown in 5min" = "markdown.md" },
+  { "Panduan Asisten Dosen" = [
+    { "Pendaftaran Asisten" = "registration.md" },
+    { "Pelaporan Log" = "logging.md" },
+    { "Mengawas" = "proctoring.md" },
+    { "Pembayaran Honor" = "payments.md" },
+  ] },
+  { "Pertanyaan Umum" = "faq.md" },
+  { "Code of Conduct" = "coc.md" },
 ]
 
 # extra_css = ["stylesheets/extra.css"]
