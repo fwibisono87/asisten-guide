@@ -2,172 +2,57 @@
 icon: lucide/rocket
 ---
 
-# Get started
+# Panduan Asisten Dosen FASILKOM UI
 
-For full documentation visit [zensical.org](https://zensical.org/docs/).
+Selamat datang. Panduan ini disusun oleh **Lembaga Asisten FASILKOM UI** untuk menjawab
+hal-hal yang paling sering membingungkan Asisten Dosen — mulai dari cara mendaftar, cara
+mengisi log agar tidak ditolak, sampai kapan honor Anda benar-benar cair.
 
-## Commands
+## Mulai dari mana?
 
-* [`zensical new`][new] - Create a new project
-* [`zensical serve`][serve] - Start local web server
-* [`zensical build`][build] - Build your site
+**Baru pertama kali menjadi asisten?** Baca berurutan:
 
-  [new]: https://zensical.org/docs/usage/new/
-  [serve]: https://zensical.org/docs/usage/preview/
-  [build]: https://zensical.org/docs/usage/build/
+1. [**Pendaftaran Asisten**](registration.md) — syarat administratif, alur pendaftaran di
+   SIASISTEN, dan apa yang terjadi kalau Anda diterima di lebih dari satu lowongan.
+2. [**Pelaporan Log**](logging.md) — batas waktu, batas durasi, kategori, dan cara menulis
+   deskripsi yang tidak ditolak. **Ini halaman terpenting di panduan ini.**
+3. [**Mengawas**](proctoring.md) — SINGAWAS, cara mendaftar sesi, dan prosedur di hari ujian.
+4. [**Pembayaran Honor**](payments.md) — tarif per jam dan kenapa honor Anda belum masuk juga.
 
-## Examples
+**Sudah pernah jadi asisten?** Mungkin yang Anda cari:
 
-### Admonitions
+- [Pertanyaan Umum](faq.md) — honor Rp 0, log ditolak, dan pertanyaan langganan lainnya
+- [Mengundurkan Diri](resign.md)
+- [Code of Conduct](coc.md)
 
-> Go to [documentation](https://zensical.org/docs/authoring/admonitions/)
+## Tiga hal yang paling sering bikin rugi
 
-!!! note
+!!! danger "Batas pelaporan log adalah tanggal 2 bulan berikutnya"
 
-    This is a **note** admonition. Use it to provide helpful information.
+    Pekerjaan bulan Maret harus dilaporkan paling lambat **2 April**. Lewat dari itu, log tidak
+    lagi dapat diklaim dan honornya hilang. Tidak ada pelaporan susulan.
 
-!!! warning
+    → [Batas pengisian](logging.md#batas-pengisian)
 
-    This is a **warning** admonition. Be careful!
+!!! warning "Tanpa NPWP, honor Anda tidak bisa dibayarkan"
 
-### Details
+    NPWP wajib untuk semua asisten dan didaftarkan secara mandiri. Urus di awal, jangan tunggu
+    log pertama Anda disetujui.
 
-> Go to [documentation](https://zensical.org/docs/authoring/admonitions/#collapsible-blocks)
+    → [Memiliki NPWP](registration.md#memiliki-npwp)
 
-??? info "Click to expand for more info"
+!!! info "Status `DIPROSES` bukan berarti honor segera cair"
 
-    This content is hidden until you click to expand it.
-    Great for FAQs or long explanations.
+    Pencairan umumnya memakan waktu sekitar dua bulan sejak pekerjaan dilaporkan. Ini limitasi
+    sistem keuangan UI, bukan tanda ada yang salah dengan log Anda.
 
-## Code Blocks
+    → [Pembayaran Honor](payments.md)
 
-> Go to [documentation](https://zensical.org/docs/authoring/code-blocks/)
+## Sistem yang akan Anda gunakan
 
-``` python hl_lines="2" title="Code blocks"
-def greet(name):
-    print(f"Hello, {name}!") # (1)!
+| Sistem | Untuk apa |
+|---|---|
+| [SIASISTEN](https://siasisten.cs.ui.ac.id) | Melamar lowongan, mengisi log, melihat honor |
+| [SINGAWAS](https://singawas.cs.ui.ac.id) | Mendaftar dan melihat penugasan pengawasan ujian |
 
-greet("Python")
-```
-
-1.  > Go to [documentation](https://zensical.org/docs/authoring/code-blocks/#code-annotations)
-
-    Code annotations allow to attach notes to lines of code.
-
-Code can also be highlighted inline: `#!python print("Hello, Python!")`.
-
-## Content tabs
-
-> Go to [documentation](https://zensical.org/docs/authoring/content-tabs/)
-
-=== "Python"
-
-    ``` python
-    print("Hello from Python!")
-    ```
-
-=== "Rust"
-
-    ``` rs
-    println!("Hello from Rust!");
-    ```
-
-## Diagrams
-
-> Go to [documentation](https://zensical.org/docs/authoring/diagrams/)
-
-``` mermaid
-graph LR
-  A[Start] --> B{Error?};
-  B -->|Yes| C[Hmm...];
-  C --> D[Debug];
-  D --> B;
-  B ---->|No| E[Yay!];
-```
-
-## Footnotes
-
-> Go to [documentation](https://zensical.org/docs/authoring/footnotes/)
-
-Here's a sentence with a footnote.[^1]
-
-Hover it, to see a tooltip.
-
-[^1]: This is the footnote.
-
-
-## Formatting
-
-> Go to [documentation](https://zensical.org/docs/authoring/formatting/)
-
-- ==This was marked (highlight)==
-- ^^This was inserted (underline)^^
-- ~~This was deleted (strikethrough)~~
-- H~2~O
-- A^T^A
-- ++ctrl+alt+del++
-
-## Icons, Emojis
-
-> Go to [documentation](https://zensical.org/docs/authoring/icons-emojis/)
-
-* :sparkles: `:sparkles:`
-* :rocket: `:rocket:`
-* :tada: `:tada:`
-* :memo: `:memo:`
-* :eyes: `:eyes:`
-
-## Maths
-
-> Go to [documentation](https://zensical.org/docs/authoring/math/)
-
-$$
-\cos x=\sum_{k=0}^{\infty}\frac{(-1)^k}{(2k)!}x^{2k}
-$$
-
-!!! warning "Needs configuration"
-    Note that MathJax is included via a `script` tag on this page and is not
-    configured in the generated default configuration to avoid including it
-    in a pages that do not need it. See the documentation for details on how
-    to configure it on all your pages if they are more Maths-heavy than these
-    simple starter pages.
-
-<script id="MathJax-script" src="https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"></script>
-<script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [["\\(", "\\)"]],
-      displayMath: [["\\[", "\\]"]],
-      processEscapes: true,
-      processEnvironments: true
-    },
-    options: {
-      ignoreHtmlClass: ".*|",
-      processHtmlClass: "arithmatex"
-    }
-  };
-
-  document$.subscribe(() => {
-    MathJax.startup.output.clearCache()
-    MathJax.typesetClear()
-    MathJax.texReset()
-    MathJax.typesetPromise()
-  })
-</script>
-
-## Task Lists
-
-> Go to [documentation](https://zensical.org/docs/authoring/lists/#using-task-lists)
-
-* [x] Install Zensical
-* [x] Configure `zensical.toml`
-* [x] Write amazing documentation
-* [ ] Deploy anywhere
-
-## Tooltips
-
-> Go to [documentation](https://zensical.org/docs/authoring/tooltips/)
-
-[Hover me][example]
-
-  [example]: https://example.com "I'm a tooltip!"
+Keduanya menggunakan akun SSO UI Anda.

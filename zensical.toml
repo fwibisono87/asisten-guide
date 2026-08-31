@@ -2,10 +2,10 @@
 # This is a project site, so it is served from the repository subpath.
 site_url = "https://fwibisono87.github.io/asisten-guide/"
 site_name = "Asisten Guide"
-# site_description = "Your project description"
-# site_author = "Your name"
+site_description = "Panduan Asisten Dosen FASILKOM UI: pendaftaran, pelaporan log, mengawas, dan pembayaran honor."
+site_author = "Lembaga Asisten FASILKOM UI"
 
-# copyright = "Copyright &copy; 2026 Your name"
+copyright = "Copyright &copy; 2026 Lembaga Asisten FASILKOM UI"
 
 repo_url = "https://github.com/fwibisono87/asisten-guide"
 repo_name = "fwibisono87/asisten-guide"
@@ -17,6 +17,7 @@ nav = [
     { "Pelaporan Log" = "logging.md" },
     { "Mengawas" = "proctoring.md" },
     { "Pembayaran Honor" = "payments.md" },
+    { "Mengundurkan Diri" = "resign.md" },
   ] },
   { "Pertanyaan Umum" = "faq.md" },
   { "Code of Conduct" = "coc.md" },
