@@ -6,9 +6,9 @@ icon: lucide/scale
 
 Jangan korupsi log, kids.
 
-Honor asisten dibayarkan dari anggaran negara, berdasarkan laporan yang Anda buat sendiri.
-Sistemnya berjalan atas dasar kepercayaan — dosen dan admin tidak mengawasi setiap jam kerja
-Anda. Karena itu, kejujuran dalam pengisian log bukan formalitas.
+Honor asisten dibayarkan dari anggaran Universitas Indonesia, berdasarkan laporan yang Anda buat sendiri.
+Sistem ini berjalan atas dasar kepercayaan — dosen dan admin tidak dapat mengawasi setiap jam kerja
+Anda. Karena itu, kejujuran dalam pengisian log adalah hal **wajib**.
 
 ## Yang termasuk korupsi log
 
@@ -24,7 +24,7 @@ Anda. Karena itu, kejujuran dalam pengisian log bukan formalitas.
 Log yang bermasalah dapat **ditolak oleh dosen pengampu atau oleh Admin SIASISTEN**. Log yang
 ditolak tidak dibayarkan.
 
-!!! tip "Kalau ragu, tanya"
+!!! tip "Ragu, tanyakan!"
 
     Tidak yakin suatu kegiatan boleh dilaporkan, atau bingung mengategorikannya? Tanyakan ke
-    dosen pengampu sebelum mengisi log. Jauh lebih murah daripada log ditolak.
+    dosen pengampu sebelum mengisi log. 

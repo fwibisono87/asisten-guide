@@ -4,7 +4,7 @@ icon: lucide/rocket
 
 # Panduan Asisten Dosen FASILKOM UI
 
-Selamat datang. Panduan ini disusun oleh **Lembaga Asisten FASILKOM UI** untuk menjawab
+Selamat datang! Panduan ini disusun oleh **Lembaga Asisten FASILKOM UI** untuk menjawab
 hal-hal yang paling sering membingungkan Asisten Dosen — mulai dari cara mendaftar, cara
 mengisi log agar tidak ditolak, sampai kapan honor Anda benar-benar cair.
 
@@ -25,7 +25,7 @@ mengisi log agar tidak ditolak, sampai kapan honor Anda benar-benar cair.
 - [Mengundurkan Diri](resign.md)
 - [Code of Conduct](coc.md)
 
-## Tiga hal yang paling sering bikin rugi
+## Tiga hal yang yang sering ditanyakan
 
 !!! danger "Batas pelaporan log adalah tanggal 2 bulan berikutnya"
 
@@ -34,10 +34,9 @@ mengisi log agar tidak ditolak, sampai kapan honor Anda benar-benar cair.
 
     → [Batas pengisian](logging.md#batas-pengisian)
 
-!!! warning "Tanpa NPWP, honor Anda tidak bisa dibayarkan"
+!!! warning "Tanpa NPWP, Anda tidak bisa mendaftar"
 
-    NPWP wajib untuk semua asisten dan didaftarkan secara mandiri. Urus di awal, jangan tunggu
-    log pertama Anda disetujui.
+    NPWP wajib untuk semua asisten dan didaftarkan secara mandiri. Sebagai Perguruan Tinggi Negara Berbadan Hukum (PTN-BH), Universitas Indonesia wajib melaporkan honor yang dibayarkan ke pemerintah sebagai basis pemotongan pajak. 
 
     → [Memiliki NPWP](registration.md#memiliki-npwp)
 

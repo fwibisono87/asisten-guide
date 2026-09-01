@@ -8,7 +8,7 @@ icon: lucide/message-circle-question-mark
 
 Admin belum menetapkan tarif Anda untuk lowongan tersebut.
 
-Ini normal, terutama di awal semester. Anda tidak perlu melakukan apa-apa — tunggu saja, dan
+Ini normal, terutama di awal semester atau saat Anda baru pertama kali menjadi Asisten. Anda tidak perlu melakukan apa-apa — tunggu saja, dan
 tarif akan terisi. Log yang Anda isi selama tarif masih Rp 0 tetap tercatat.
 
 Tarif yang seharusnya berlaku dapat dilihat di [Tarif Honor Asisten

@@ -1,6 +1,7 @@
 ---
 icon: lucide/user-plus
 ---
+
 # Pendaftaran Asisten
 
 Seluruh proses pendaftaran Asisten Dosen FASILKOM UI dilakukan melalui
@@ -17,12 +18,6 @@ FASILKOM UI menyimpan catatan pelanggaran akademik mahasiswa, dan catatan ini di
 pendaftaran asisten diproses. Apabila ditemukan riwayat pelanggaran, Admin SIASISTEN dapat
 menolak pendaftaran Anda.
 
-!!! note "Bukan penolakan otomatis"
-
-    Keputusan ini bersifat diskresi Admin, bukan aturan hitam-putih. Riwayat pelanggaran
-    tidak selalu berarti pendaftaran Anda pasti ditolak — tetapi ini adalah hal yang
-    dipertimbangkan.
-
 ### Memiliki rekening bank
 
 Honor asisten ditransfer ke rekening bank, jadi Anda wajib memiliki satu.
@@ -37,9 +32,9 @@ Bukti kepemilikan rekening diunggah ke profil SIASISTEN Anda. Bentuk bukti yang 
 
 - Rekening koran, **atau**
 - Foto/scan halaman depan buku tabungan, **atau**
-- Screenshot m-banking yang menampilkan **nomor rekening dan nama pemilik**.
+- Screenshot aplikasi m-banking yang menampilkan **nomor rekening dan nama pemilik**.
 
-!!! warning "Nomor rekening dan nama harus terbaca"
+!!! warning "Nomor rekening dan nama harus jelas"
 
     Screenshot yang hanya menampilkan saldo atau nomor rekening tanpa nama pemilik akan
     ditolak. Pastikan keduanya terlihat jelas dalam satu gambar.
@@ -47,10 +42,10 @@ Bukti kepemilikan rekening diunggah ke profil SIASISTEN Anda. Bentuk bukti yang 
 ### Memiliki NPWP
 
 **NPWP wajib untuk semua asisten.** Tanpa NPWP, honor Anda tidak dapat dibayarkan — ini
-adalah syarat dari sistem keuangan, bukan kebijakan FASILKOM.
+adalah syarat dari sistem keuangan di Universitas Indonesia, bukan kebijakan FASILKOM.
 
 Pendaftaran NPWP dilakukan secara mandiri oleh masing-masing asisten; FASILKOM tidak
-mendaftarkan Anda. Urus ini lebih awal, jangan menunggu sampai log pertama Anda disetujui.
+mendaftarkan Anda.
 
 ### Memenuhi syarat tim pengajar
 
@@ -77,9 +72,9 @@ seluruh FASILKOM. Baca deskripsi lowongan dengan teliti.
 Yang perlu Anda siapkan biasanya cukup sederhana: **nilai** Anda, **ketersediaan waktu**, dan
 **jumlah SKS** yang sedang Anda ambil.
 
-!!! info "Pendaftaran tidak benar-benar tutup"
+!!! info "Lamar di awal!"
 
-    Lowongan di SIASISTEN normalnya tidak ditutup di tanggal tertentu. Namun, penerimaan
+    Lowongan di SIASISTEN mungkin tidak ditutup di tanggal tertentu. Namun, penerimaan
     asisten di tengah semester jarang terjadi — jika Anda ingin menjadi asisten di suatu
     semester, lamar di awal.
 
@@ -96,8 +91,8 @@ diterima:
   keduanya.
 - **Hanya sanggup satu?** Anda dapat [mengundurkan diri](resign.md) dari A dan mengambil B.
 
-!!! warning "Jangan overcommit"
+!!! warning "Jangan berlebihan!""
 
     Tidak adanya batas keras bukan berarti tidak ada batas praktis. Beban asisten dihitung
     dalam jam kerja nyata yang harus Anda laporkan sebagai log, di atas beban kuliah Anda
-    sendiri.
+    sendiri. Ingat, tugas utama anda sebagai Mahasiswa adalah untuk belajar.
