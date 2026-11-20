@@ -12,7 +12,7 @@ seperti masuk ke sistem UI lainnya, tidak ada akun terpisah.
 
 Anda tidak perlu meminta akun. Cukup login, dan peran Anda akan mengikuti status Anda:
 
-- **Koor Asdos** — diberi peran koordinator untuk mata kuliah Anda.
+- **[Koor Asdos](faq.md#apa-itu-koor-asdos)** — diberi peran koordinator untuk mata kuliah Anda.
 - **Asisten Dosen** — ditugaskan pada mata kuliah yang Anda asisteni.
 - **Bukan asisten mata kuliah tersebut** — Anda dapat mengawas sebagai **Pengawas Tambahan**.
 

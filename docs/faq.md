@@ -36,3 +36,13 @@ pertimbangan, tetapi itu keputusan mereka — bukan aturan fakultas.
 
     Anda **tidak boleh** mengawas ujian mata kuliah yang sedang Anda ambil. Lihat [Ketentuan
     mengawas](proctoring.md#ketentuan-mengawas).
+
+### Apa itu Koor Asdos?
+
+**Koor Asdos** (Koordinator Asisten Dosen) adalah asisten yang dipilih oleh tim pengajar suatu
+mata kuliah di awal semester untuk mengoordinasikan para asisten mata kuliah tersebut.
+
+Tanggung jawab minimal Koor Asdos adalah mengatur [penugasan ruang pengawasan ujian di
+SINGAWAS](proctoring.md#koor-asdos-dan-asdos-dalam-pengawasan-ujian). Tanggung jawab lainnya
+ditentukan berdasarkan kesepakatan dengan tim pengajar masing-masing, sehingga dapat berbeda
+antarmata kuliah.

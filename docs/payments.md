@@ -22,7 +22,7 @@ Log yang terlambat diisi atau belum di-ACC setelah tanggal 5 akan masuk ke siklu
 
 !!! tip "Tanggal 4 belum di-ACC? Ingatkan dosennya!"
 
-    Jika per tanggal 4 log belum juga di-ACC, **Koordinator Asisten** bertugas mengingatkan
+    Jika per tanggal 4 log belum juga di-ACC, **[Koor Asdos](faq.md#apa-itu-koor-asdos)** bertugas mengingatkan
     dosen yang bersangkutan kembali. Manajer Akademik juga sudah mengingatkan dosen
     masing-masing setiap awal bulan, tapi demi kebaikan teman-teman sendiri, silakan juga
     "todong" dosennya ya — dosen juga manusia yang bisa lupa ^_^

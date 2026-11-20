@@ -9,7 +9,7 @@ lain. Mengundurkan diri adalah pilihan yang sah, dan lebih baik daripada menghil
 
 ## Prosedur
 
-1. **Bicarakan dengan dosen pengampu atau Koor Asdos terlebih dahulu.** Ini bukan formalitas —
+1. **Bicarakan dengan dosen pengampu atau [Koor Asdos](faq.md#apa-itu-koor-asdos) terlebih dahulu.** Ini bukan formalitas —
    tim pengajar perlu waktu untuk mengatur ulang pembagian tugas.
 2. **Ajukan pengunduran diri melalui [SIASISTEN](https://siasisten.cs.ui.ac.id)** setelahnya.
 
