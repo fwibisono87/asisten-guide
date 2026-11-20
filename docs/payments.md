@@ -43,8 +43,9 @@ Status log per tanggal 5 menentukan jalur pemrosesan honor Anda:
     anggaran tahun berikutnya. Karena itu, berlaku tenggat khusus:
 
     - Seluruh pekerjaan bulan November yang sudah dikerjakan **wajib dilaporkan paling lambat
-      tanggal 20 November** agar dapat dibayarkan di bulan Desember.
-    - Pekerjaan yang dilaporkan **setelah tanggal 20 November**, serta seluruh pekerjaan di bulan
+      tanggal 20 November** (atau tanggal lain yang diumumkan melalui SINGAWAS) agar dapat
+      dibayarkan di bulan Desember.
+    - Pekerjaan yang dilaporkan **setelah tenggat tersebut**, serta seluruh pekerjaan di bulan
       **Desember**, baru akan dibayarkan pada **tahun berikutnya**.
 
 ## Tarif Honor Asisten FASILKOM UI
