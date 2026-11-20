@@ -82,7 +82,7 @@ berhalangan.
 
 ### Sebelum ujian
 
-1. **Datang minimal 30 menit sebelum jadwal ujian.**
+1. **Datang WAJIB 30 menit sebelum jadwal ujian.**
 2. **Ambil berkas ujian di Sekre:**
 
     === "FASILKOM Lama"
